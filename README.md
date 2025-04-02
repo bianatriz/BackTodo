@@ -2,7 +2,9 @@
 
 Este é um aplicativo de lista de tarefas (**Todo App**) desenvolvido com **Angular** no front-end, **Node.js** no back-end e **MongoDB** como banco de dados.
 
-![image](https://github.com/user-attachments/assets/2d881603-dab8-42ca-9b33-0a727d60a7a5)
+Essa aplicação é uma adaptação do projeto do Mozilla Dev que você pode encontrar [aqui](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/Svelte_Todo_list_beginning) e foi  desenvolvida em aula. Foi com ele que eu aprendi o básico do NodeJS e Angular.
+
+![image](https://github.com/user-attachments/assets/4ffccb55-2931-4408-bdec-02211dcd02ff)
 
 
 ## Funcionalidades
@@ -39,7 +41,7 @@ cd todo-app
 
 ### 3. Configurar o Front-end
 
-1. Acesse o repositorio do **front-end**:
+1. Acesse o diretorio do **front-end**:
    ```sh
    cd ../front-end
    ```
@@ -62,6 +64,5 @@ cd todo-app
 
 ---
 
-Esse projeto foi desenvolvido em sala de aula, foi com ele que eu aprendi o básico do NodeJS e Angular
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario) 🚀
+Desenvolvido por [Ana B](https://github.com/bianatriz) 🚀
 
